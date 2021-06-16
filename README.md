@@ -18,10 +18,10 @@
 <br/><br/> 
 ### Published Journals
 
-|Journal|Repo|PyPi|Doc|
-|---|---|---|---|
-|   |   |   |   |  
-|   |   |   |   | 
+|Journal|Title|Repo|PyPi|Doc|
+|---|---|---|---|---|
+|   |   |   |   |     |
+|   |   |   |   |    |
 
 ### Python Packages
 
