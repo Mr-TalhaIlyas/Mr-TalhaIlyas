@@ -54,6 +54,7 @@
 ### Other Links
 
 [![alt text](https://github.com/Mr-TalhaIlyas/Mr-TalhaIlyas/blob/main/files/g.png "Talha Ilyas Google Scholar")](https://scholar.google.com/citations?hl=en&user=HYNOyyAAAAAJ) 
+
 [![alt text](https://github.com/Mr-TalhaIlyas/Mr-TalhaIlyas/blob/main/files/y.png "Talha Ilyas Youtub Channel")](https://www.youtube.com/channel/UCSjoeeMYXDqWZUWOu81tsPw/videos) 
 
 
