@@ -1,7 +1,7 @@
 # Talha Ilyas
 
 ### _Affiliations_  
-![image](https://github.com/hololee/hololee/blob/main/%EC%9E%90%EC%82%B0%203_final.png?raw=true)  
+* ![alt text](https://github.com/Mr-TalhaIlyas/Mr-TalhaIlyas/blob/main/files/jb.jpg "JBNU")[Jeonbuk National University, South Korea](https://www.jbnu.ac.kr/kor/)
 
 ### Area of Reseasch
   
