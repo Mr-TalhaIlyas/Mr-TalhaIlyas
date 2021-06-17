@@ -37,7 +37,7 @@
 |---|---|---|---|---|
 |Plant Disease Detector|[repo](https://github.com/Mr-TalhaIlyas/Fornt-End-API-or-GUI-for-Computer-Vision-Projects)|-|-|[youtube](https://www.youtube.com/watch?v=C4xr9jICxwA)|
 |Brain Tumor Segmentor|[repo](https://github.com/Mr-TalhaIlyas/Fornt-End-API-or-GUI-for-Computer-Vision-Projects)|-|-|[youtube](https://www.youtube.com/watch?v=wTOuYLGfusc)|
-|FTP Data Uploader|[repo](https://github.com/Mr-TalhaIlyas/PlantsDataUploader)|[drive](https://drive.google.com/drive/u/1/folders/1PYbKXt1IecuZO_rHEOOolLGP_W7Y8WSM)|-|-|
+|FTP Data Uploader|[repo](https://github.com/Mr-TalhaIlyas/PlantsDataUploader)|[drive](https://drive.google.com/drive/u/1/folders/1PYbKXt1IecuZO_rHEOOolLGP_W7Y8WSM)|-|[youtube](https://www.youtube.com/watch?v=3u789NY9bGY)|
 |Tumor Detector|[repo]()|under developement|under review|-|
 
 ### Status
