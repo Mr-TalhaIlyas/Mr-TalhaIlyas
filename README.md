@@ -1,19 +1,17 @@
 # Talha Ilyas
 
-### _Working With_  
+### _Affiliations_  
 ![image](https://github.com/hololee/hololee/blob/main/%EC%9E%90%EC%82%B0%203_final.png?raw=true)  
 
 ### Area of Reseasch
-- #### ```Computer Vision```   
-  - ##### *Classification*
-  - ##### *Object Detection*
-  - ##### *Semantic Segmentation*
-  - ##### *Instance Segmentation*
-  - ##### *Panoptic Segmentation*
-  - ##### *Unsupervised Segmentation*
-  - ##### *Depth Estimation*
-  - ##### *Medical Image Analysis*
-  - 
+  
+| ```Computer Vision```||
+|---|---|
+|*Classification*|*Object Detection*|
+|*Semantic Segmentation*|*Instance Segmentation*|
+|*Panoptic Segmentation*|*Unsupervised Segmentation*|
+|*Depth Estimation*|*Medical Image Analysis*|
+
 
 <br/><br/> 
 ### Published Journals
@@ -41,8 +39,9 @@
 |Tumor Detector|[repo]()|under developement|under review|-|
 
 ### Status
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TalhaIlyas&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TalhaIlyas&theme=blue-white&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![github stats](https://github-readme-stats.vercel.app/api?username=Mr-TalhaIlyas&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Google Scholar
 
