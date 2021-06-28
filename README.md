@@ -24,7 +24,7 @@
 | Gray2Color |[repo](https://github.com/Mr-TalhaIlyas/Converting-Grayscale-Semantic-Masks-to-Color)  | - | [pypi](https://pypi.org/project/gray2color/)|[![Downloads](https://pepy.tech/badge/gray2color)](https://pepy.tech/project/gray2color) | 
 |Tensorflow/ Keras Model Profiler|[repo](https://github.com/Mr-TalhaIlyas/Tensorflow-Keras-Model-Profiler)|-|[pypi](https://pypi.org/project/model-profiler)|[![Downloads](https://pepy.tech/badge/model-profiler)](https://pepy.tech/project/model-profiler)|
 
-### Python GUIs and Applications
+### Python GUIs and Windows Applications(`.exe`)
 
 |Title|Repo|`.exe`|Doc|Usage|
 |---|---|---|---|---|
@@ -32,6 +32,12 @@
 |Brain Tumor Segmentor|[repo](https://github.com/Mr-TalhaIlyas/Fornt-End-API-or-GUI-for-Computer-Vision-Projects)|-|-|[youtube](https://www.youtube.com/watch?v=wTOuYLGfusc)|
 |FTP Data Uploader|[repo](https://github.com/Mr-TalhaIlyas/PlantsDataUploader)|[drive](https://drive.google.com/drive/u/1/folders/1PYbKXt1IecuZO_rHEOOolLGP_W7Y8WSM)|-|[youtube](https://www.youtube.com/watch?v=3u789NY9bGY)|
 |Tumor Detector|[repo]()|under developement|under review|-|
+
+### Android Application (`.apk`)
+
+|Title|Repo|`.exe`|Doc|Usage|
+|---|---|---|---|---|
+coming soon*
 
 ### Web Development
 |Title|Repo|Doc|Usage|Link|
