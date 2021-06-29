@@ -48,7 +48,7 @@ coming soon*
 ### Web Development
 |Title|Repo|Doc|Usage|Link|
 |---|---|---|---|---|
-|Plant Disease Detector|[repo](https://github.com/Mr-TalhaIlyas/flask-server-main/blob/master/readme.md)|N/A|[youtube](https://www.youtube.com/watch?v=ycL7oE3h_m4)|http://detection.jbnu.ac.kr/|
+|Plant Disease Detector|[repo](https://github.com/Mr-TalhaIlyas/flask-server-main)|http://detection.jbnu.ac.kr/|
 
 *`*will be made public as soon as project is finished and finalized`*
 
