@@ -62,7 +62,7 @@ coming soon*
 |ELSEVIER Neural Networks|5.5|TSFD-Net: Tissue specific feature distillation Network for Nuclei Segmentation and Classification|[repo]()|under review|
 
 ### Status
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TalhaIlyas&theme=blue-white&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TalhaIlyas&theme=blue-white&layout=compact&langs_count=5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 [![github stats](https://github-readme-stats.vercel.app/api?username=Mr-TalhaIlyas&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 
 
