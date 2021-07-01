@@ -35,13 +35,13 @@
 
 ### Android Application (`.apk`)
 
-|Title|Repo|`.exe`|Doc|Usage|
+|Title|Repo|`.apk`|Doc|Usage|
 |---|---|---|---|---|
 coming soon*
 
 ### IOS Application 
 
-|Title|Repo|`.exe`|Doc|Usage|
+|Title|Repo|`.`|Doc|Usage|
 |---|---|---|---|---|
 coming soon*
 
