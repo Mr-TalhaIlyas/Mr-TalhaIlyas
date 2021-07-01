@@ -57,8 +57,8 @@ coming soon*
 |Journal|IF|Title|Repo|Doc|
 |---|---|---|---|---|
 |Frontiers in Plant Science| 5.7 |DAM: Hierarchical Adaptive Feature Selection Using Convolution Encoder Decoder Network for Strawberry Segmentation|[repo](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberry)|[paper](https://www.frontiersin.org/articles/10.3389/fpls.2021.591333/full)|
-|MDPI Electronics|2.4|SEEK: A Framework of Superpixel Learning with CNN Features for Unsupervised Segmentation|[repo](https://github.com/Mr-TalhaIlyas/SEEK-A-Framework-of-Superpixel-Learning-with-CNN-Features-for-Unsupervised-Segmentation)|[paper](https://www.mdpi.com/2079-9292/9/3/383)|
-|MDPI Electronics|2.4|CED-Net: Crops and Weeds Segmentation for Smart Farming Using a Small Cascaded Encoder-Decoder Architecture|[repo](https://github.com/Mr-TalhaIlyas/CED-Net-Crops-and-Weeds-Segmentation-for-Smart-Farming-Using)|[paper](https://www.mdpi.com/2079-9292/9/10/1602)|
+|MDPI Electronics|2.39|SEEK: A Framework of Superpixel Learning with CNN Features for Unsupervised Segmentation|[repo](https://github.com/Mr-TalhaIlyas/SEEK-A-Framework-of-Superpixel-Learning-with-CNN-Features-for-Unsupervised-Segmentation)|[paper](https://www.mdpi.com/2079-9292/9/3/383)|
+|MDPI Electronics|2.39|CED-Net: Crops and Weeds Segmentation for Smart Farming Using a Small Cascaded Encoder-Decoder Architecture|[repo](https://github.com/Mr-TalhaIlyas/CED-Net-Crops-and-Weeds-Segmentation-for-Smart-Farming-Using)|[paper](https://www.mdpi.com/2079-9292/9/10/1602)|
 |ELSEVIER Neural Networks|8.05|TSFD-Net: Tissue specific feature distillation Network for Nuclei Segmentation and Classification|[repo]()|under review|
 
 ### Status
