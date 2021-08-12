@@ -63,7 +63,7 @@ coming soon*
 
 ### Status
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TalhaIlyas&theme=blue-white&layout=compact&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-[![github stats](https://github-readme-stats.vercel.app/api?username=Mr-TalhaIlyas&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Mr-TalhaIlyas&theme=blue-white&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Other Links
