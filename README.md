@@ -63,8 +63,8 @@ coming soon*
 |IEEE Access|3.3|Multi-Scale Context Aggregation for Strawberry Fruit Recognition and Disease Phenotyping|-|[paper](https://ieeexplore.ieee.org/document/9530695)|
 
 ### Status
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TalhaIlyas&theme=blue-white&layout=compact&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-[![github stats](https://github-readme-stats.vercel.app/api?username=Mr-TalhaIlyas&theme=blue-white&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TalhaIlyas&theme=radical&layout=compact&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Mr-TalhaIlyas&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Other Links
