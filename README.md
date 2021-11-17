@@ -64,7 +64,7 @@ coming soon*
 
 ### Status
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TalhaIlyas&theme=radical&layout=compact&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-[![github stats](https://github-readme-stats.vercel.app/api?username=Mr-TalhaIlyas&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Mr-TalhaIlyas&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Other Links
