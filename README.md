@@ -14,7 +14,7 @@
 |*Semantic Segmentation*|*Instance Segmentation*|
 |*Panoptic Segmentation*|*Unsupervised Segmentation*|
 |*Depth Estimation*|*Medical Image Analysis*|
-|*AI/ML on edge devices*||
+|*AI/ML on edge devices*|*Image Quality Assessment*|
 
 ### Python Packages
 
