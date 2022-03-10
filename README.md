@@ -4,7 +4,9 @@
 ### _Affiliations_  
 [![alt text](https://github.com/Mr-TalhaIlyas/Mr-TalhaIlyas/blob/main/files/r.png "Robot Vision Lab, JBNU, South Korea.")](https://home.jbnu.ac.kr/robotv/index.htm) 
 [![alt text](https://github.com/Mr-TalhaIlyas/Mr-TalhaIlyas/blob/main/files/j.jpg "Jeonbuk National University, South Korea.")](https://www.jbnu.ac.kr/kor/) 
-[![alt text](https://github.com/Mr-TalhaIlyas/Mr-TalhaIlyas/blob/main/files/u.png "University of Engineering and Technology Lahore, Pakistan.")](https://www.uet.edu.pk/)  
+[![alt text](https://github.com/Mr-TalhaIlyas/Mr-TalhaIlyas/blob/main/files/u.png "University of Engineering and Technology Lahore, Pakistan.")](https://www.uet.edu.pk/)
+[![](https://github.com/Mr-TalhaIlyas/Mr-TalhaIlyas/raw/main/files/m.png "Monash Medical AI, Australia")](https://www.monash.edu/mmai-group/people) 
+
 
 ### Area of Interest
   
