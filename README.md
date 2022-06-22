@@ -26,7 +26,7 @@
 | Gray2Color |[repo](https://github.com/Mr-TalhaIlyas/Converting-Grayscale-Semantic-Masks-to-Color)  | - | [pypi](https://pypi.org/project/gray2color/)|[![Downloads](https://pepy.tech/badge/gray2color)](https://pepy.tech/project/gray2color) | 
 |Tensorflow/ Keras Model Profiler|[repo](https://github.com/Mr-TalhaIlyas/Tensorflow-Keras-Model-Profiler)|-|[pypi](https://pypi.org/project/model-profiler)|[![Downloads](https://pepy.tech/badge/model-profiler)](https://pepy.tech/project/model-profiler)|
 |Extract & Merge Image Patches|[repo](https://github.com/Mr-TalhaIlyas/EMPatches)|-|[pypi](https://pypi.org/project/empatches/)| [![Downloads](https://pepy.tech/badge/empatches)](https://pepy.tech/project/empatches)|
-|Files Management Utilities|[repo](https://github.com/Mr-TalhaIlyas/FMUtils)|[doc](https://pypi.org/project/fmutils/)|[pypi](https://pypi.org/project/fmutils/)| [![Downloads](https://pepy.tech/badge/fmutils)](https://pepy.tech/project/fmutils)|  
+|Files Management Utilities|[repo](https://github.com/Mr-TalhaIlyas/FMUtils)|[doc](https://files-management-utilities.readthedocs.io/en/latest/)|[pypi](https://pypi.org/project/fmutils/)| [![Downloads](https://pepy.tech/badge/fmutils)](https://pepy.tech/project/fmutils)|  
 
 
 ### Python GUIs and Windows Applications(`.exe`)
