@@ -62,11 +62,11 @@ coming soon*
 |Journal|JIF|Title|Repo|Doc|
 |---|---|---|---|---|
 |Frontiers in Plant Science|6.62|DAM: Hierarchical Adaptive Feature Selection Using Convolution Encoder Decoder Network for Strawberry Segmentation|[repo](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberry)|[paper](https://www.frontiersin.org/articles/10.3389/fpls.2021.591333/full)|
-|MDPI Electronics|2.39|SEEK: A Framework of Superpixel Learning with CNN Features for Unsupervised Segmentation|[repo](https://github.com/Mr-TalhaIlyas/SEEK-A-Framework-of-Superpixel-Learning-with-CNN-Features-for-Unsupervised-Segmentation)|[paper](https://www.mdpi.com/2079-9292/9/3/383)|
-|MDPI Electronics|2.39|CED-Net: Crops and Weeds Segmentation for Smart Farming Using a Small Cascaded Encoder-Decoder Architecture|[repo](https://github.com/Mr-TalhaIlyas/CED-Net-Crops-and-Weeds-Segmentation-for-Smart-Farming-Using)|[paper](https://www.mdpi.com/2079-9292/9/10/1602)|
+|MDPI Electronics|2.69|SEEK: A Framework of Superpixel Learning with CNN Features for Unsupervised Segmentation|[repo](https://github.com/Mr-TalhaIlyas/SEEK-A-Framework-of-Superpixel-Learning-with-CNN-Features-for-Unsupervised-Segmentation)|[paper](https://www.mdpi.com/2079-9292/9/3/383)|
+|MDPI Electronics|2.69|CED-Net: Crops and Weeds Segmentation for Smart Farming Using a Small Cascaded Encoder-Decoder Architecture|[repo](https://github.com/Mr-TalhaIlyas/CED-Net-Crops-and-Weeds-Segmentation-for-Smart-Farming-Using)|[paper](https://www.mdpi.com/2079-9292/9/10/1602)|
 |ELSEVIER Neural Networks|9.6|TSFD-Net: Tissue specific feature distillation Network for Nuclei Segmentation and Classification|[repo]( https://github.com/Mr-TalhaIlyas/TSFD)|[paper](https://doi.org/10.1016/j.neunet.2022.02.020)|
-|IEEE Access|3.3|Multi-Scale Context Aggregation for Strawberry Fruit Recognition and Disease Phenotyping|-|[paper](https://ieeexplore.ieee.org/document/9530695)|
-|MDPI Sensors|3.56|A Method for End-to-End Supervised Stereo Imaging-Based Depth Estimation|-|under review|
+|IEEE Access|3.47|Multi-Scale Context Aggregation for Strawberry Fruit Recognition and Disease Phenotyping|-|[paper](https://ieeexplore.ieee.org/document/9530695)|
+|MDPI Sensors|3.8|A Method for End-to-End Supervised Stereo Imaging-Based Depth Estimation|-|under review|
 |Nature Scientific Reports|4.99|A Pixel-Level Coarse-to-Fine Segmentation Labelling Algorithm|[repo](https://github.com/hololee/coarse-to-fine-segmentation-labelling)|[paper](https://www.nature.com/articles/s41598-022-12532-7)|
 |ELSEVIER Engineering Applications of Artificial Intelligence|7.8|A Deep Learning Based Paprika Plant Disease and Pest Phenotyping System with Disease Severity Assessment|-|under review|
 
