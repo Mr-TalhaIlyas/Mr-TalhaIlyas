@@ -67,7 +67,7 @@ coming soon*
 |ELSEVIER Neural Networks|9.6|TSFD-Net: Tissue specific feature distillation Network for Nuclei Segmentation and Classification|[repo]( https://github.com/Mr-TalhaIlyas/TSFD)|[paper](https://doi.org/10.1016/j.neunet.2022.02.020)|
 |IEEE Access|3.3|Multi-Scale Context Aggregation for Strawberry Fruit Recognition and Disease Phenotyping|-|[paper](https://ieeexplore.ieee.org/document/9530695)|
 |MDPI Sensors|3.56|A Method for End-to-End Supervised Stereo Imaging-Based Depth Estimation|-|under review|
-|Nature Scientific Reports|4.38|A Pixel-Level Coarse-to-Fine Segmentation Labelling Algorithm|[repo](https://github.com/hololee/coarse-to-fine-segmentation-labelling)|[paper](https://www.nature.com/articles/s41598-022-12532-7)|
+|Nature Scientific Reports|4.99|A Pixel-Level Coarse-to-Fine Segmentation Labelling Algorithm|[repo](https://github.com/hololee/coarse-to-fine-segmentation-labelling)|[paper](https://www.nature.com/articles/s41598-022-12532-7)|
 |ELSEVIER Engineering Applications of Artificial Intelligence|6.21|A Deep Learning Based Paprika Plant Disease and Pest Phenotyping System with Disease Severity Assessment|-|under review|
 
 
