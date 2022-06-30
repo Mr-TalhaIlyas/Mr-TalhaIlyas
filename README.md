@@ -68,7 +68,7 @@ coming soon*
 |IEEE Access|3.47|Multi-Scale Context Aggregation for Strawberry Fruit Recognition and Disease Phenotyping|-|[paper](https://ieeexplore.ieee.org/document/9530695)|
 |MDPI Sensors|3.8|A Method for End-to-End Supervised Stereo Imaging-Based Depth Estimation|-|under review|
 |Nature Scientific Reports|4.99|A Pixel-Level Coarse-to-Fine Segmentation Labelling Algorithm|[repo](https://github.com/hololee/coarse-to-fine-segmentation-labelling)|[paper](https://www.nature.com/articles/s41598-022-12532-7)|
-|ELSEVIER Engineering Applications of Artificial Intelligence|7.8|A Deep Learning Based Paprika Plant Disease and Pest Phenotyping System with Disease Severity Assessment|-|under review|
+|Frontiers in Plant Science|6.62|A Deep Learning Based Paprika Plant Disease and Pest Phenotyping System with Disease Severity Assessment|-|under review|
 
 
 ### Status
