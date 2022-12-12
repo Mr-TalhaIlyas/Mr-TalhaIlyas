@@ -31,11 +31,11 @@
   
 | ```Computer Vision```||
 |---|---|
-|*Classification*|*Object Detection*|
-|*Semantic Segmentation*|*Instance Segmentation*|
-|*Panoptic Segmentation*|*Unsupervised Segmentation*|
+|*Unsupervised Learning*|*Reinforcement Learning*|
+|*Pattern Recogination*|*Precision Agriculture*|
+|*Panoptic Segmentation*|*Image Quality Assessment*|
 |*Depth Estimation*|*Medical Image Analysis*|
-|*AI/ML on edge devices*|*Image Quality Assessment*|
+|*AI/ML on edge devices*|*NVIDIA Jetsone Xavier/Nano*|
 
 ### Python Packages
 
