@@ -85,7 +85,7 @@ coming soon*
 |MDPI Electronics|2.69|CED-Net: Crops and Weeds Segmentation for Smart Farming Using a Small Cascaded Encoder-Decoder Architecture|[repo](https://github.com/Mr-TalhaIlyas/CED-Net-Crops-and-Weeds-Segmentation-for-Smart-Farming-Using)|[paper](https://www.mdpi.com/2079-9292/9/10/1602)|
 |ELSEVIER Neural Networks|9.6|TSFD-Net: Tissue specific feature distillation Network for Nuclei Segmentation and Classification|[repo]( https://github.com/Mr-TalhaIlyas/TSFD)|[paper](https://doi.org/10.1016/j.neunet.2022.02.020)|
 |IEEE Access|3.47|Multi-Scale Context Aggregation for Strawberry Fruit Recognition and Disease Phenotyping|-|[paper](https://ieeexplore.ieee.org/document/9530695)|
-|MDPI Sensors|3.8|A Method for End-to-End Supervised Stereo Imaging-Based Depth Estimation|-|under review|
+|Computers and Electronics in Agriculture|6.75|Eco-friendly weeding through precise detection of growing points via efficient multi-branch convolutional neural networks|[repo]()||
 |Nature Scientific Reports|4.99|A Pixel-Level Coarse-to-Fine Segmentation Labelling Algorithm|[repo](https://github.com/hololee/coarse-to-fine-segmentation-labelling)|[paper](https://www.nature.com/articles/s41598-022-12532-7)|
 |Frontiers in Plant Science|6.62|A Deep Learning Based Paprika Plant Disease and Pest Phenotyping System with Disease Severity Assessment|[repo](https://github.com/Mr-TalhaIlyas/DIANA)|[paper](https://www.frontiersin.org/articles/10.3389/fpls.2022.983625/abstract)|
 
