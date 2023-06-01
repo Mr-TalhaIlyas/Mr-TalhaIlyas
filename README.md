@@ -88,7 +88,7 @@ coming soon*
 |Computers and Electronics in Agriculture|6.75|Eco-friendly weeding through precise detection of growing points via efficient multi-branch convolutional neural networks|[repo]()|[paper](https://doi.org/10.1016/j.neunet.2022.02.020)|
 |Nature Scientific Reports|4.99|A Pixel-Level Coarse-to-Fine Segmentation Labelling Algorithm|[repo](https://github.com/hololee/coarse-to-fine-segmentation-labelling)|[paper](https://www.nature.com/articles/s41598-022-12532-7)|
 |Frontiers in Plant Science|6.62|A Deep Learning Based Paprika Plant Disease and Pest Phenotyping System with Disease Severity Assessment|[repo](https://github.com/Mr-TalhaIlyas/DIANA)|[paper](https://www.frontiersin.org/articles/10.3389/fpls.2022.983625/abstract)|
-|Computers and Electronics in Agriculture|6.75||[repo]()|[paper]()|
+|Computers and Electronics in Agriculture|6.75|Adaptive Deep Learning for Crop Weed Recogination in Unseen Fields|[repo]()|[paper]()|
 
 
 ### Status
