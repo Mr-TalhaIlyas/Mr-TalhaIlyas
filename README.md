@@ -92,8 +92,8 @@ coming soon*
 ### Under Review Works
 |Journal|JIF|Title|Repo|Doc|
 |---|---|---|---|---|
-|Under Review|-|CWD30: A Comprehensive and Holistic Dataset for Crop Weed Recognition in Precision Agriculture|[repo]()|[paper]()|
-|Under Review|-|Adaptive Deep Learning for Crop Weed Recogination in Unseen Fields|[repo]()|[paper]()|
+|Under Review|-|CWD30: A Comprehensive and Holistic Dataset for Crop Weed Recognition in Precision Agriculture|[repo](https://github.com/Mr-TalhaIlyas/CWD30)|[paper](https://arxiv.org/abs/2305.10084)|
+|Revision Submitted|-|Adaptive Deep Learning for Crop Weed Recogination in Unseen Fields|[repo]()|[paper]()|
 
 
 ### Status
