@@ -77,7 +77,8 @@ coming soon*
 *`*will be made public as soon as project is finished and finalized`*
 
 ### Published Works
-
+[![alt text](https://github.com/Mr-TalhaIlyas/Mr-TalhaIlyas/blob/main/files/g.png "Talha Ilyas Google Scholar")](https://scholar.google.com/citations?hl=en&user=HYNOyyAAAAAJ) 
+<!--
 |Journal|JIF|Title|Repo|Doc|
 |---|---|---|---|---|
 |Frontiers in Plant Science|6.62|DAM: Hierarchical Adaptive Feature Selection Using Convolution Encoder Decoder Network for Strawberry Segmentation|[repo](https://github.com/Mr-TalhaIlyas/DAM-Hierarchical-Adaptive-Feature-Selection-Using-Convolution-Encoder-Decoder-Network-for-Strawberry)|[paper](https://www.frontiersin.org/articles/10.3389/fpls.2021.591333/full)|
@@ -95,18 +96,19 @@ coming soon*
 |---|---|---|---|---|
 |Under Review|-|CWD30: A Comprehensive and Holistic Dataset for Crop Weed Recognition in Precision Agriculture|[repo](https://github.com/Mr-TalhaIlyas/CWD30)|[paper](https://arxiv.org/abs/2305.10084)|
 
+-->
 
 ### Status
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-TalhaIlyas&theme=radical&layout=compact&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mr-TalhaIlyas?theme=radical&cardType=octocat)](https://git.io/awesome-stats-card)
 
-<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=jeongahyun&theme=radical&include_all_commits=true&count_private=true&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
+[![github stats](https://github-readme-stats.vercel.app/api?username=jeongahyun&theme=radical&include_all_commits=true&count_private=true&hide_rank=false)](https://github.com/Mr-TalhaIlyas/github-readme-stats) -->
 
 
 
 
 ### Other Links
 
-[![alt text](https://github.com/Mr-TalhaIlyas/Mr-TalhaIlyas/blob/main/files/g.png "Talha Ilyas Google Scholar")](https://scholar.google.com/citations?hl=en&user=HYNOyyAAAAAJ) [![alt text](https://github.com/Mr-TalhaIlyas/Mr-TalhaIlyas/blob/main/files/y.png "Talha Ilyas Youtub Channel")](https://www.youtube.com/channel/UCSjoeeMYXDqWZUWOu81tsPw/videos) 
+[![alt text](https://github.com/Mr-TalhaIlyas/Mr-TalhaIlyas/blob/main/files/y.png "Talha Ilyas Youtub Channel")](https://www.youtube.com/channel/UCSjoeeMYXDqWZUWOu81tsPw/videos) 
 
 
