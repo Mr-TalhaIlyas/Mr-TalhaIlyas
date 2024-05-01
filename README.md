@@ -111,7 +111,6 @@ coming soon*
 
 
 ### Other Links
-
-[![alt text](https://github.com/Mr-TalhaIlyas/Mr-TalhaIlyas/blob/main/files/y.png "Talha Ilyas Youtub Channel")](https://www.youtube.com/channel/UCSjoeeMYXDqWZUWOu81tsPw/videos) 
-
-
+<a href="https://www.youtube.com/channel/UCSjoeeMYXDqWZUWOu81tsPw/videos">
+  <img src="https://github.com/Mr-TalhaIlyas/Mr-TalhaIlyas/blob/main/files/you2.png" alt="Talha Ilyas Youtube Channel" title="Talha Ilyas Youtube Channel" width="110" height="100">
+</a>
