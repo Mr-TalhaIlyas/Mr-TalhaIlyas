@@ -76,8 +76,11 @@ coming soon*
 
 *`*will be made public as soon as project is finished and finalized`*
 
-### Published Works
-[![alt text](https://github.com/Mr-TalhaIlyas/Mr-TalhaIlyas/blob/main/files/g.png "Talha Ilyas Google Scholar")](https://scholar.google.com/citations?hl=en&user=HYNOyyAAAAAJ) 
+### Published Works 
+<a href="https://scholar.google.com/citations?hl=en&user=HYNOyyAAAAAJ">
+  <img src="https://github.com/Mr-TalhaIlyas/Mr-TalhaIlyas/blob/main/files/g2.png" alt="Talha Ilyas Google Scholar" title="Talha Ilyas Google Scholar" width="100" height="100">
+</a>
+
 <!--
 |Journal|JIF|Title|Repo|Doc|
 |---|---|---|---|---|
