@@ -77,6 +77,7 @@
 
 | Package | Description | PyPI | Downloads |
 |---------|-------------|------|-----------|
+| **[seizurekit](https://pypi.org/project/seizurekit/)** | Seizure detection evaluation and analysis. | [![PyPI](https://img.shields.io/pypi/v/seizurekit)](https://pypi.org/project/seizurekit/) | [![Downloads](https://pepy.tech/badge/seizurekit)](https://pepy.tech/project/seizurekit) |
 | **[seg-crf](https://pypi.org/project/seg-crf/)** | Fully Connected CRF for Segmentation | [![PyPI](https://img.shields.io/pypi/v/seg-crf)](https://pypi.org/project/seg-crf/) | [![Downloads](https://pepy.tech/badge/seg-crf)](https://pepy.tech/project/seg-crf) |
 | **[gray2color](https://pypi.org/project/gray2color/)** | Grayscale to Color Mask Conversion | [![PyPI](https://img.shields.io/pypi/v/gray2color)](https://pypi.org/project/gray2color/) | [![Downloads](https://pepy.tech/badge/gray2color)](https://pepy.tech/project/gray2color) |
 | **[model-profiler](https://pypi.org/project/model-profiler/)** | TensorFlow/Keras Model Analysis | [![PyPI](https://img.shields.io/pypi/v/model-profiler)](https://pypi.org/project/model-profiler/) | [![Downloads](https://pepy.tech/badge/model-profiler)](https://pepy.tech/project/model-profiler) |
